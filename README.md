@@ -1,4 +1,11 @@
-### Hi there 👋
+👋  ***Hello***
+
+A Frontend Developer
+
+Programming is a job as well as a hobby, and it is also fun and creative  
+
+👉 [My Blog](https://jeekdong.me)
+
 
 <!--
 **jeekdong/jeekdong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
